@@ -28,7 +28,7 @@
   * [HTML DOG](https://www.htmldog.com/)
   * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
   
-  ##  Contributors
+  ## Contributors
   
   Sreenidhi Madala, Master's in Appiled Computer science.
   
