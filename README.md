@@ -23,6 +23,11 @@
    
   ## Recommended Resources
   
+  * [Coursera](https://www.coursera.org/)
+  * [w3schools.com](https://www.w3schools.com/)
+  * [HTML DOG](https://www.htmldog.com/)
+  * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+  
   ##  Contributors
   
   Sreenidhi Madala, Master's in Appiled Computer science.
