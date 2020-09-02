@@ -8,7 +8,7 @@
 ## About
  This repo is used to pratice for developing Web Apps.
  
- ## Recommanded Tools
+## Recommanded Tools
  
  Required Tools:
  
@@ -21,14 +21,14 @@
    * CSS
    * Linux
    
-  ## Recommended Resources
+## Recommended Resources
   
   * [Coursera](https://www.coursera.org/)
   * [w3schools.com](https://www.w3schools.com/) 
   * [HTML DOG](https://www.htmldog.com/)
   * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
   
-  ## Contributors
+## Contributors
   
   Sreenidhi Madala, Master's in Appiled Computer science.
   
