@@ -3,7 +3,7 @@
 ## Repository Links
 
 * [Source Repository](https://github.com/Sreenidhi17/about-me) 
-* Hosted page
+* [Hosted page](https://sreenidhi17.github.io/about-me/)
 
 ## About
  This repo is used to pratice for developing Web Apps.
