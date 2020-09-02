@@ -30,5 +30,6 @@
   
   ##  Contributors
   Sreenidhi Madala, Master's in Appiled Computer science.
-  ![IMG-1468](https://user-images.githubusercontent.com/69994220/92044210-556cb200-ed43-11ea-818c-ff9676742f44.JPG)
+  ![sreenidhi pic](https://user-images.githubusercontent.com/69994220/92044372-bbf1d000-ed43-11ea-84ab-19d648cb3901.jpg)
+
   
