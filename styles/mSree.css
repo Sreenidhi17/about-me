@@ -4,7 +4,11 @@
   }
   
   p {
-   
+    color: black;
+  }
+
+  p.intro {
+    background-color: lightcyan;
     color: black;
   }
 
