@@ -33,5 +33,11 @@
   Sreenidhi Madala, Master's in Appiled Computer science.
   
   ![sreenidhi pic (2)](https://user-images.githubusercontent.com/69994220/92044903-d9736980-ed44-11ea-9335-f50911e13a05.jpg)
+  
+  ## Credits of external references
+  
+  * [W3](https://www.w3schools.com/) for help with html and CSS
+  * Video from [Youtube](https://www.youtube.com/watch?time_continue=1&v=-USAeFpVf_A&feature=emb_logo)
+  * I credit myself for background picture
 
   
