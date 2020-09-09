@@ -36,7 +36,7 @@
   
   ## Credits of external references
   
-  * [W3](https://www.w3schools.com/) for help with html and CSS
+  * [W3Schools](https://www.w3schools.com/) for help with html and CSS
   * Video from [Youtube](https://www.youtube.com/watch?time_continue=1&v=-USAeFpVf_A&feature=emb_logo)
   * I credit myself for background picture
 
