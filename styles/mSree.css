@@ -1,0 +1,55 @@
+/* h1 {
+    text-align: center;
+    color: red;
+  } */
+  
+  h2 {
+    text-align: center;
+    color: red;
+  }
+  
+  p {
+   
+    color: black;
+  }
+
+  .class {
+    background-color: yellow;
+  }
+
+  .class2 {
+    font-size: 200%;
+    color: rgb(42, 13, 148);
+  }
+
+  #id {
+    background-color: yellow;
+  }
+
+  #id2 {
+    text-align: right;
+    color: green;
+  }
+
+  #pic{
+    border-radius: 50%;
+  }
+  .header { 
+    text-align: center;
+    background: silver;
+    color: red;
+    font-size: 20px;
+  }
+
+  article{
+    background: light;
+  }
+
+  aside {
+    
+    background-color:aquamarine;
+    width: 10%;
+    float: right;
+    font-style: italic;
+    
+  }
