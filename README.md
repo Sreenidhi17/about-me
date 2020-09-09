@@ -39,5 +39,7 @@
   * [W3Schools](https://www.w3schools.com/) for help with html and CSS
   * Video from [Youtube](https://www.youtube.com/watch?time_continue=1&v=-USAeFpVf_A&feature=emb_logo)
   * I credit myself for background picture
+  * [Facebook Logo](https://www.google.com/search?    q=facebook+logo&safe=active&rlz=1C1GCEA_enUS915US915&sxsrf=ALeKk00Rdo9SxaB4Oq7llcswEFybb0OwrQ:1599684652853&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjHiPHb-dzrAhXWK80KHReXA3gQ_AUoAXoECBUQAw&biw=1280&bih=578&dpr=1.5)
+  * [Git Logo](https://www.google.com/search?q=git+hub+logo&tbm=isch&ved=2ahUKEwilk4zt-dzrAhUJ3awKHWd8CYYQ2-cCegQIABAA&oq=git+hub+logo&gs_lcp=CgNpbWcQAzICCAAyAggAMgYIABAIEB4yBggAEAoQGDIGCAAQChAYOgYIABAHEB46CAgAEAgQBxAeUJgkWMouYPgyaABwAHgAgAFNiAGlApIBATSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=UEBZX6WrOYm6swXn-KWwCA&bih=578&biw=1263&rlz=1C1GCEA_enUS915US915&safe=active&hl=en&hl=en#imgrc=Lp2OqU7fPdjSMM)
 
   
