@@ -41,5 +41,10 @@
   * I credit myself for background picture
   * [Facebook Logo](https://commons.wikimedia.org/wiki/File:Facebook_Logo_(2019).png)
   * [Git Logo](https://github.com/logos)
+  * [Api reference for jokes](https://sv443.net/jokeapi/v2/)
+  * [qunit tests](https://github.com/profcase/js-gui-with-tests)
+  * [local storage](https://github.com/denisecase/js-gui-storage)
+  * [Api calls in js](https://github.com/profcase/js-gui-ajax/blob/master/src/fetch-joke.js)
+  
 
   
