@@ -4,7 +4,7 @@
   }
   
   p {
-    color: black;
+    color: white;
   }
 
   p.intro {
@@ -74,4 +74,8 @@
   
   nav:hover {
     background-color: #111;
+  }
+
+  td {
+    color:red;
   }

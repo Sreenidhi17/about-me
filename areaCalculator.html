@@ -9,11 +9,10 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.7/css/mdb.min.css" rel="stylesheet">
-    <script src="main.js"></script>
-    <script src="fetch-joke.js"></script>
+
     <style>
         body {
-            background-image: url('background.jpeg');
+            background-image: url('bgr.jpeg');
         }
     </style>
 
@@ -35,48 +34,56 @@
 
     <table>
         <tr>
-            <td><b>Side 1 (a)</b></td>
+            <td><b> Side 1 (a)</b></td>
             <td>
                 <input type="text" id ="txt1" name="triedge1" value="" class="inlong">
             </td>
         </tr>
         <tr>
-            <td><b>Side 2 (b)</b></td>
+            <td><b> Side 2 (b)</b></td>
             <td>
                 <input type="text" id ="txt2" name="triedge2" value="" class="inlong">
             </td>
         </tr>
         <tr>
-            <td><b>Side 3 (c)</b></td>
+            <td><b> Side 3 (c)</b></td>
             <td>
                 <input type="text" id ="txt3" name="triedge3" value="" class="inlong">
             </td>
         </tr>
     </table>
     <p>
-    <button onclick="myFunction(); return false">calculate</button>
+        <img id="pic" src="calc.jpg" class="img-circle" alt="name" width="40" height="40">
+    <button id="clicker" onclick="myFunction(); return false" class="btn btn-info">calculate</button>
+    <button id="wiper" class="btn btn-danger">Clear Storage</button>
     </p> 
 
     <p> Result: 
         <span id = "calc"> </span>
         <br>
     </p>
+
+    <p> 
+        <span id = "result"> </span>
+        <br>
+    </p>
         <h2><b>Hey...! something to Try here</b></h2>
         <div style="width:100%; height:100%", align="center">
         <button  onclick="getJoke(); return false">Fetch Joke</button>
         </div>
-        <p1> <b><i>Here is the joke:</i> </b>
+        <p> <b><i>Here is the joke:</i> </b>
             <br>
             <span id = "joke"> </span>
             <br>
             <br>
-        </p1>
-  
-    
+        </p>
+
     <footer>
         <p>Author: <i>Sreenidhi Madala</i></p>
         <p>Background image Credit : <i>Sreenidhi Madala</i></p>
     </footer>
+    <script src="main.js"></script>
+    <script src="fetch-joke.js"></script>
 </body>
 
 </html>

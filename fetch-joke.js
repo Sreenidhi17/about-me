@@ -11,3 +11,7 @@ const getJoke = async () => {
     document.getElementById("joke").innerHTML = joke;
   } catch (error) { console.error(error) }
 }
+
+ const area =(x,y,z) => {
+   return Math.sqrt(((x + y + z)/2)*(((x + y + z)/2)-x)*(((x + y + z)/2)-y)*(((x + y + z)/2)-z));
+  }
